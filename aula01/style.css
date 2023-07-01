@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: black;
+    color: white;
+}
+
+@media (max-widht: 400px) {
+    body{
+        background-color: white;
+        color:black;
+    }
+}
